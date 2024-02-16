@@ -1,6 +1,12 @@
 {
     "cSpell.words": [
+        "chakra",
+        "formik",
+        "heroicons",
         "netflixclone",
-        "tailwindcss"
+        "NEXTAUTH",
+        "prismadb",
+        "tailwindcss",
+        "zustand"
     ]
 }
