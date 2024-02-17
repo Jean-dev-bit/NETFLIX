@@ -6,6 +6,8 @@
         "netflixclone",
         "NEXTAUTH",
         "prismadb",
+        "Proog",
+        "Sintel",
         "tailwindcss",
         "zustand"
     ]
